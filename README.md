@@ -207,7 +207,6 @@ Real-time updates across devices when logged in
 Dark theme with premium feel
 
 Smooth animations for stats and progress
-
 Responsive layout for all screen sizes
 Clean and intuitive navigation
 Custom hero and category images
