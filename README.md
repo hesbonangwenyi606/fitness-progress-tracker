@@ -205,7 +205,6 @@ Real-time updates across devices when logged in
 🎨 UI & UX Highlights
 
 Dark theme with premium feel
-
 Smooth animations for stats and progress
 Responsive layout for all screen sizes
 Clean and intuitive navigation
