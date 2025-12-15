@@ -176,9 +176,7 @@ src/
 
 🚀 Getting Started
 Prerequisites
-
 Node.js (v18+ recommended)
-
 npm or yarn
 
 **Installation**
