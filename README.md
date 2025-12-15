@@ -25,7 +25,7 @@ Hero section with personalized welcome
 
 6 animated stat cards (total workouts, calories, streaks, etc.)
 
-8 workout categories:
+## workout categories:
 Strength
 Cycling
 Running
