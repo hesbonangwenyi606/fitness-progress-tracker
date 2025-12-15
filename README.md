@@ -117,7 +117,7 @@ personal_records
 
 Each table is protected by Row Level Security (RLS) to ensure users can only access their own data.
 
-🧩 Architecture
+## Architecture
 Frontend
 React
 TypeScript
