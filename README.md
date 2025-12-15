@@ -119,7 +119,6 @@ Each table is protected by Row Level Security (RLS) to ensure users can only acc
 
 🧩 Architecture
 Frontend
-
 React
 TypeScript
 Tailwind CSS
