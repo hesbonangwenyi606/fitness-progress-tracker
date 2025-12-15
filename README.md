@@ -156,3 +156,6 @@ Secure authentication & authorization
 Real-time data synchronization
 Scalable and maintainable architecture
 Strong UI/UX engineering
+
+## Feedback
+If you find this project useful, feel free to star the repository or suggest improvements!
