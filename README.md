@@ -138,12 +138,9 @@ Optimistic UI updates
 
 Local persistence with cloud sync
 
-Backend
-
+## Backend
 Cloud database with real-time subscriptions
-
 Secure authentication
-
 Automatic data synchronization
 
 ## Project Structure
