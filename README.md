@@ -233,7 +233,6 @@ Full-stack development skills
 Real-world data modeling
 Secure authentication & authorization
 Real-time data synchronization
-
 Scalable and maintainable architecture
 
 Strong UI/UX engineering
