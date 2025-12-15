@@ -181,7 +181,7 @@ Node.js (v18+ recommended)
 
 npm or yarn
 
-Installation
+**Installation**
 git clone https://github.com/yourusername/fitness-progress-tracker.git
 cd fitness-progress-tracker
 npm install
