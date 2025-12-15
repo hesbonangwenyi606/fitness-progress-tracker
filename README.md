@@ -146,7 +146,7 @@ Secure authentication
 
 Automatic data synchronization
 
-📂 Project Structure
+## Project Structure
 src/
 ├── components/
 │   ├── StatCard.tsx
