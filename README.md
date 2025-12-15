@@ -229,9 +229,7 @@ Custom hero and category images
 📌 Why This Project Matters
 
 This project demonstrates:
-
 Full-stack development skills
-
 Real-world data modeling
 
 Secure authentication & authorization
