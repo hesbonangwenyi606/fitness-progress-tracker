@@ -101,8 +101,7 @@ All user data is private and isolated
 
 Sync status indicator in the app header
 
-🗄️ Database Schema
-
+## Database Schema
 **The application uses a fully structured relational schema:**
 user_profiles
 workouts
