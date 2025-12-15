@@ -62,11 +62,8 @@ Designed to be extendable for intervals and rest timers
 📁 Workout History
 
 Expandable workout cards
-
 View exercises, sets, reps, and notes
-
 Search and filter by workout category
-
 Clean, readable workout summaries
 
 ## Progress Tracking
