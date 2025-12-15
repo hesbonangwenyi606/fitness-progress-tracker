@@ -220,8 +220,7 @@ Custom hero and category images
 
 📚 Exercise library with muscle groups and equipment filters
 
-🗓 Workout plans and training programs
-
+Workout plans and training programs
 AI-generated workout plans
 
 ## Export workout data (CSV/PDF)
