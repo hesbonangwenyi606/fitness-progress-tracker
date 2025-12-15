@@ -174,7 +174,7 @@ src/
 │
 └── AppLayout.tsx
 
-🚀 Getting Started
+## Getting Started
 Prerequisites
 Node.js (v18+ recommended)
 npm or yarn
