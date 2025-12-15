@@ -70,9 +70,7 @@ Search and filter by workout category
 Clean, readable workout summaries
 
 📈 Progress Tracking
-
 Weight progress chart (6-month trend with target line)
-
 Line and bar charts for workout volume and frequency
 Personal records with improvement indicators
 Achievement badges with visual states
