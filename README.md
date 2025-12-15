@@ -199,7 +199,6 @@ http://localhost:5173
 When not authenticated, data is stored locally
 
 On sign-in, local data automatically syncs to the cloud
-
 Real-time updates across devices when logged in
 
 ## UI & UX Highlights
