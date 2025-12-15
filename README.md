@@ -126,8 +126,7 @@ TypeScript
 
 Tailwind CSS
 
-SVG & CSS animations
-
+**SVG & CSS animations**
 Custom reusable components
 
 **State & Logic**
