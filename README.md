@@ -113,8 +113,7 @@ exercises
 
 measurements
 
-personal_records
-
+**personal_records**
 Each table is protected by Row Level Security (RLS) to ensure users can only access their own data.
 
 ## Architecture
