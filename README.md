@@ -222,9 +222,9 @@ Custom hero and category images
 
 🗓 Workout plans and training programs
 
-🤖 AI-generated workout plans
+AI-generated workout plans
 
-📤Export workout data (CSV/PDF)
+## Export workout data (CSV/PDF)
 This project demonstrates:
 Full-stack development skills
 Real-world data modeling
