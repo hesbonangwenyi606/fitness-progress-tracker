@@ -19,13 +19,9 @@ Real-time cloud sync across devices
 
 Offline support with automatic sync when authenticated
 
-📊 Dashboard
-
+## Dashboard
 Hero section with personalized welcome
-
-6 animated stat cards (total workouts, calories, streaks, etc.)
-
-## workout categories:
+**workout categories:**
 Strength
 Cycling
 Running
