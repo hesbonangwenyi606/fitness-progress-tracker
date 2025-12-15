@@ -134,8 +134,7 @@ State & Logic
 
 Custom React hooks (useAuth, useFitnessData, useWorkoutTimer)
 
-Optimistic UI updates
-
+**Optimistic UI updates**
 Local persistence with cloud sync
 
 ## Backend
