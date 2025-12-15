@@ -103,14 +103,10 @@ Sync status indicator in the app header
 
 🗄️ Database Schema
 
-The application uses a fully structured relational schema:
-
+**The application uses a fully structured relational schema:**
 user_profiles
-
 workouts
-
 exercises
-
 measurements
 
 **personal_records**
