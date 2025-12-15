@@ -90,15 +90,10 @@ Achievement overview
 Activity summary
 
 🔐 Authentication & Security
-
 Email/password authentication
-
 Sign up, sign in, and sign out flows
-
 Secure Row Level Security (RLS) policies
-
 All user data is private and isolated
-
 Sync status indicator in the app header
 
 ## Database Schema
