@@ -226,7 +226,7 @@ Custom hero and category images
 
 📤 Export workout data (CSV/PDF)
 
-📌 Why T
+📌 
 This project demonstrates:
 Full-stack development skills
 Real-world data modeling
