@@ -215,7 +215,6 @@ Clean and intuitive navigation
 Custom hero and category images
 
 🛠️ Planned Features
-
 ⏱ Interval & rest-based workout timer
 
 ## Exercise library with muscle groups and equipment filters
