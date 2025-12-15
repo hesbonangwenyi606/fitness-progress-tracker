@@ -4,19 +4,12 @@ Built with React + TypeScript, modern UI animations, real-time database integrat
 
 ✨ Features
 🧠 Core Functionality
-
 Log workout sessions with detailed exercises, sets, reps, weights, and notes
-
 Track fitness progress over time with interactive charts
-
 Manage personal fitness goals and body measurements
-
 Store and track personal records (PRs)
-
 Achievement system with locked/unlocked badges
-
 Real-time cloud sync across devices
-
 Offline support with automatic sync when authenticated
 
 ## Dashboard
