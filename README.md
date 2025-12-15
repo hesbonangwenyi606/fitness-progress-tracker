@@ -1,4 +1,4 @@
-### 🏋️ Fitness Progress Tracker
+### Fitness Progress Tracker
 A premium full-stack fitness tracking application that allows users to log workouts, track progress, visualize fitness data, and sync everything securely to the cloud in real time.
 Built with React + TypeScript, modern UI animations, real-time database integration, and secure user authentication.
 
