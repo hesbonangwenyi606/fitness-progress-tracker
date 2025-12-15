@@ -2,7 +2,7 @@ A premium full-stack fitness tracking application that allows users to log worko
 
 Built with React + TypeScript, modern UI animations, real-time database integration, and secure user authentication.
 
-✨ Features
+## Features
 **Core Functionality**
 Log workout sessions with detailed exercises, sets, reps, weights, and notes
 Track fitness progress over time with interactive charts
