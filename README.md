@@ -52,11 +52,8 @@ Monthly goal completion rings
 🕒 Workout Timer
 
 Real-time stopwatch for workouts
-
 Start, pause, and reset functionality
-
 Built using a custom React hook
-
 Designed to be extendable for intervals and rest timers
 
 ## Workout History
