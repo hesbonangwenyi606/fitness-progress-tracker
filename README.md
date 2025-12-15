@@ -28,25 +28,12 @@ Hero section with personalized welcome
 8 workout categories:
 
 Strength
-
-Cardio
-
-Yoga
-
-HIIT
-
 Cycling
-
 Running
-
 Swimming
-
 Sports
-
 Recent workout history
-
 Weekly progress charts
-
 Monthly goal completion rings
 
 ## Workout Timer
