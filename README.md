@@ -89,7 +89,7 @@ Achievement overview
 
 Activity summary
 
-🔐 Authentication & Security
+## Authentication & Security
 Email/password authentication
 Sign up, sign in, and sign out flows
 Secure Row Level Security (RLS) policies
