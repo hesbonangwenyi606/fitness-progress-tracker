@@ -218,7 +218,7 @@ Custom hero and category images
 
 ⏱ Interval & rest-based workout timer
 
-📚 Exercise library with muscle groups and equipment filters
+##Exercise library with muscle groups and equipment filters
 Workout plans and training programs
 AI-generated workout plans
 
