@@ -202,7 +202,7 @@ On sign-in, local data automatically syncs to the cloud
 
 Real-time updates across devices when logged in
 
-🎨 UI & UX Highlights
+## UI & UX Highlights
 Dark theme with premium feel
 Smooth animations for stats and progress
 Responsive layout for all screen sizes
