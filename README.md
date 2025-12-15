@@ -80,13 +80,9 @@ Personal records with improvement indicators
 Achievement badges with visual states
 
 👤 Profile
-
 Editable fitness goals
-
 Body measurements tracking
-
 Achievement overview
-
 Activity summary
 
 ## Authentication & Security
