@@ -130,8 +130,7 @@ SVG & CSS animations
 
 Custom reusable components
 
-State & Logic
-
+**State & Logic**
 Custom React hooks (useAuth, useFitnessData, useWorkoutTimer)
 
 **Optimistic UI updates**
