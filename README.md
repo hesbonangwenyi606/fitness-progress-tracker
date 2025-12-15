@@ -79,7 +79,7 @@ Personal records with improvement indicators
 
 Achievement badges with visual states
 
-👤 Profile
+## Profile
 Editable fitness goals
 Body measurements tracking
 Achievement overview
